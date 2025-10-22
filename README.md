@@ -4,7 +4,7 @@ This is the official PyTorch implementation of our paper:
 
 > **DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation**, *ICCVW 2025*\
 > Suhwan Cho, Minhyeok Lee, Jungho Lee, Donghyeong Kim, Sangyoun Lee\
-> Link: [[arXiv]](https://arxiv.org/abs/2507.19790)
+> Link: [[ICCVW]](https://openaccess.thecvf.com/content/ICCV2025W/LSVOS/papers/Cho_DepthFlow_Exploiting_Depth-Flow_Structural_Correlations_for_Unsupervised_Video_Object_Segmentation_ICCVW_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2507.19790)
 
 
 <img src="https://github.com/user-attachments/assets/dcbd818a-fff9-417f-a2cf-631df4c82df8" width=800>
